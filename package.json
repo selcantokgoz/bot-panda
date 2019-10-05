@@ -1,0 +1,14 @@
+{
+  "name": "panda",
+  "version": "0.0.1",
+  "description": "Bir tatlı panda",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Selcan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
