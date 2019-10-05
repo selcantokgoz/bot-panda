@@ -2,10 +2,9 @@
   "name": "panda",
   "version": "0.0.1",
   "description": "Bir tatlı panda",
-  "main": "bot.js",
-  "scripts": {
-      "start": "node app.js"
-  },
+  "main": "bot.js",“scripts”: {
+“start”: "node server.js"
+},
      
   "author": "Selcan",
   "license": "ISC",
