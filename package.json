@@ -2,8 +2,9 @@
   "name": "panda",
   "version": "0.0.1",
   "description": "Bir tatlı panda",
-  "main": "bot.js",“scripts”: {
-“start”: "node server.js"
+  "main": "bot.js",
+  "scripts": {
+"start": "node server.js"
 },
      
   "author": "Selcan",
