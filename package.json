@@ -3,11 +3,10 @@
   "version": "0.0.1",
   "description": "Bir tatlı panda",
   "main": "bot.js",
-  
   "scripts": {
-    "start": "node bot.js"
-  },
-   
+      "start": "node app.js"
+  }
+     
   "author": "Selcan",
   "license": "ISC",
   "dependencies": {
